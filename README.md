@@ -21,14 +21,12 @@ Me chamo Heloise Oliveira , mas pode me chamar de Helô e estou em transição d
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/HeloiseOliveira=anuraghazra&repo=github-readme-stats" />
-  
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/HeloiseOliveira=anuraghazra&repo=convoychat" />
-  
-</a>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeloiseOliveira&theme=tokyonight&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeloiseOliveira&layout=compact&langs_count=16&theme=dracula"/)](https://github.com/HeloiseOliveira/github-readme-stats"/>
+
+</div>
+
 
 
 
