@@ -21,9 +21,9 @@ Me chamo Heloise Oliveira , mas pode me chamar de Helô e estou em transição d
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 </div>
 
-<div style="display: inline>
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeloiseOliveira&theme=tokyonight&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeloiseOliveira&layout=compact&langs_count=16&theme=dracula"/)](https://github.com/HeloiseOliveira/github-readme-stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeloiseOliveira&layout=compact&langs_count=10&theme=dracula"/)](https://github.com/HeloiseOliveira/github-readme-stats"/>
 
 </div>
 
