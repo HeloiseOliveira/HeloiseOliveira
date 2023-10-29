@@ -3,7 +3,7 @@
 Me chamo Heloise Oliveira , mas pode me chamar de Helô e estou em transição de carreira para a área da tecnologia com experiências anteriores nos segmentos administrativo e comercial.
 
 - 👩🏻‍💻 Estou cursando Tecnólogo em Desenvolvimento Mobile na Faculdade Senac
-- 🔗 Você também me encontra no [Linkedin] (https://www.linkedin.com/in/heloise-o-29328955/)
+- 🔗 Você também me encontra no [Linkedin](https://www.linkedin.com/in/heloise-o-29328955/)
 - 📚 Atualmente mais focada em :
 
 <div style="display: inline">
