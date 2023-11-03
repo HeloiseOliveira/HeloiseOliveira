@@ -4,6 +4,8 @@ Me chamo Heloise Oliveira , mas pode me chamar de Helô e estou em transição d
 
 - 👩🏻‍💻 Estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na Faculdade Senac
 - 🔗 Você também me encontra no [Linkedin](https://www.linkedin.com/in/heloise-o-29328955/)
+- Confira alguns dashboards criados em [Power BI](https://github.com/HeloiseOliveira/dashboards-powerbi)
+- 
 - 📚 Atualmente mais focada em :
 
 <div style="display: inline">
