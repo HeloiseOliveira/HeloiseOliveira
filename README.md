@@ -1,6 +1,6 @@
 ### Olá 👋 Seja Bem vindo(a) ao meu GitHub!
 
-Me chamo Heloise Oliveira , mas pode me chamar de Helô, profissional com experiências anteriores nos segmentos administrativo ,comercial e qualidade. Sou apaixonada por tecnologia e desde 2021 tenho concentrado toda a minha energia em treinamentos com foco em LifeLong Learning baseados em dados e ferramentas de suporte.
+Me chamo Heloise Oliveira , mas pode me chamar de Helô, profissional com experiências anteriores nos segmentos administrativo ,comercial e qualidade. Sou apaixonada por tecnologia e desde 2021 tenho concentrado toda a minha energia em treinamentos com foco em Data Driven.
 
 - 👩🏻‍💻 Estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na Faculdade Senac
 - 🔗 Você também me encontra no [Linkedin](https://www.linkedin.com/in/heloise-o-29328955/)
