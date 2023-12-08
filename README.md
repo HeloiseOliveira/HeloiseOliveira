@@ -1,6 +1,6 @@
 ### Olá 👋 Seja Bem vindo(a) ao meu GitHub!
 
-Me chamo Heloise Oliveira , mas pode me chamar de Helô, profissional com experiências anteriores nos segmentos administrativo ,comercial e qualidade. Sou apaixonada por tecnologia e desde 2021 tenho concentrado toda a minha energia em treinamentos com foco em Data Driven.
+Me chamo Heloise Oliveira , mas pode me chamar de Helô, profissional com experiências anteriores nos segmentos administrativo ,comercial e qualidade. Sou apaixonada por tecnologia e desde 2021 tenho concentrado toda a minha energia em treinamentos com foco em Data Driven e processos de automação.
 
 - 👩🏻‍💻 Estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na Faculdade Senac
 
@@ -22,6 +22,24 @@ Me chamo Heloise Oliveira , mas pode me chamar de Helô, profissional com experi
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+
+          
+
+          
+
+          
+
+          
+
+          
+
+          
 </div>
 
 <div>
